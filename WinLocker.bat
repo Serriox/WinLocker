@@ -13,7 +13,7 @@ echo Enter password.
 
 :loop
 set/p x=
-if %x%==1024 (
+if %x%==1234 (
 echo Okay, it's correct password...
 echo win start
 start explorer
